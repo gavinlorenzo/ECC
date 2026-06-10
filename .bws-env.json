@@ -1,0 +1,14 @@
+{
+  "defaultTarget": "default",
+  "targets": {
+    "default": {
+      "projectName": "Projects/everything-claude-code",
+      "envFiles": [
+        {
+          "path": ".env",
+          "example": ".env.example"
+        }
+      ]
+    }
+  }
+}
