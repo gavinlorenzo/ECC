@@ -1,0 +1,13 @@
+{
+  "defaultTarget": "default",
+  "ageRecipients": [
+    "age1eeskjkw0dwgxpah6wjaf8e2r4lc52tzvt6rm6w0a7edjw2nhmetqflyw5g"
+  ],
+  "targets": {
+    "default": {
+      "envFile": ".env",
+      "encryptedFile": "secrets/default.env.sops",
+      "example": ".env.example"
+    }
+  }
+}

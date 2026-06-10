@@ -5,7 +5,7 @@
 .env.development
 .env.test
 .env.production
-.bws-env.local.json
+.sops-env.local.json
 
 # API keys and secrets
 *.key
