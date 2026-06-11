@@ -5,6 +5,7 @@
 .env.development
 .env.test
 .env.production
+.sops-env.local.json
 
 # API keys and secrets
 *.key
